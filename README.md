@@ -62,6 +62,28 @@ Some of the project notebooks were executed in the **Coursera virtual lab enviro
 - All project Jupyter notebooks  
 - Final presentation in PDF format  
 - This GitHub repository (official course requirement)  
+# Project Deliverables Checklist
+
+| Requirement                                                   | Points | Status |
+|---------------------------------------------------------------|--------|--------|
+| Uploaded the URL of your GitHub repository (notebooks + .py)  | 1      | ⬜      |
+| Uploaded completed presentation in PDF format                 | 1      | ⬜      |
+| Executive Summary slide completed                             | 1      | ⬜      |
+| Introduction slide completed                                  | 1      | ⬜      |
+| Data collection & wrangling methodology slides completed      | 1      | ⬜      |
+| EDA & interactive visual analytics methodology slides         | 3      | ⬜      |
+| Predictive analysis methodology slides                        | 1      | ⬜      |
+| EDA with visualization results slides                         | 6      | ⬜      |
+| EDA with SQL results slides                                   | 10     | ⬜      |
+| Interactive map with Folium results slides                    | 3      | ⬜      |
+| Plotly Dash dashboard results slides                          | 3      | ⬜      |
+| Predictive analysis (classification) results slides           | 6      | ⬜      |
+| Conclusion slide completed                                    | 1      | ⬜      |
+| Creativity applied beyond template                            | 1      | ⬜      |
+| Innovative insights displayed                                 | 1      | ⬜      |
+| **Total**                                                     | **40** |        |
+
+⬜ = not done | ✅ = completed
 
 ---
 
