@@ -11,21 +11,17 @@ This repository, along with the submitted presentation, fulfills the requirement
 
 ## Repository Structure
 ```
-├── notebooks/              
-│   ├── 01_data_collection_and_wrangling.ipynb
-│   ├── 02_eda_visualization.ipynb
-│   ├── 03_eda_sql.ipynb
-│   ├── 04_folium_map.ipynb
-│   ├── 05_plotly_dashboard.ipynb
-│   └── 06_classification_model.ipynb
+├── Data Collection API.ipynb
+├── Data Collection with Web Scraping.ipynb
+├── Data Wrangling.ipynb
+├── EDA with Data Visualization.ipynb
+├── EDA with SQL.ipynb
+├── Interactive Visual Analytics with Folium.ipynb
+├── Machine Learning Prediction.ipynb
 │
-├── data/                   # Data files (created/converted for this project)
-│   └── sample_dataset.csv
-│
-├── presentation/           
-│   └── Capstone_Presentation.pdf   # Final presentation (submitted on Coursera)
-│
-└── README.md               # Project overview (this file)
+├── spacex_dash_app.py             # Dash app script
+├── ds-capstone-presentation.pdf   # Final project presentation (submitted on Coursera)
+├── README.md                      # Project overview (this file)
 ```
 
 ---
@@ -50,6 +46,15 @@ This repository, along with the submitted presentation, fulfills the requirement
 - **Languages:** Python (Jupyter Notebook)  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Folium, Plotly Dash, SQL (SQLite/IBM Db2)  
 - **Platforms:** Jupyter Notebook, GitHub  
+
+---
+
+## Important Note on Environment
+Some of the project notebooks were executed in the **Coursera virtual lab environment**, while others were executed **locally in Jupyter Notebook**.  
+
+- The Coursera environment was used for initial development and validation.  
+- Local execution was necessary for certain visualizations (e.g., **Folium maps**), which required trust permissions that could not be enabled in the online lab.  
+- This demonstrates flexibility and ensures that the analysis and results remain reproducible and consistent with course requirements.  
 
 ---
 
